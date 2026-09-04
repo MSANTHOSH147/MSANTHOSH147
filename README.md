@@ -2,8 +2,6 @@
 
 ### Full-Stack Developer | Java • Spring Boot • React • MySQL
 
-I’m a Computer Science Engineering student focused on building practical, production-ready web applications.
-
 I enjoy turning real-world problems into scalable software — from designing backend APIs and relational databases to building responsive interfaces and deploying applications to the cloud.
 
 ---
